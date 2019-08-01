@@ -30,6 +30,9 @@ Add any other context or screenshots about the feature request here.
 **Priority**
 Set by management
 
+**State**
+Open/Accepted/Working/Test/Rejected/Deferred/Closed
+
 **Assigned**
 Current owner of the issue.  Initially, assigned to the Component's lead developer.
 

@@ -25,6 +25,9 @@ Fatal, Severe, Minor, Nuisance.
 **Priority**
 Set by management
 
+**State**
+Open/Accepted/Working/Test/Rejected/Deferred/Closed
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. First thing to do
